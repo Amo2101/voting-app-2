@@ -1,0 +1,47 @@
+p{
+    color: white;
+}
+
+.form{
+    background-color: rgb(99, 93, 220);
+    border-radius: 5px;
+    width: 550px;
+    margin: 20px auto;
+    padding: 20px;
+    /* height: 600px; */
+    border-radius: 30px;
+}
+
+.form-body{
+    text-align: left;
+    padding: 20px 10px;
+}
+
+.form-body > *{
+    padding: 5px;
+}
+
+.form__label{
+    width: 40%;
+    color: white;
+    position: relative;
+    
+}
+
+.form_input{
+    width: 60%;
+  
+}
+
+.footer{
+    text-align: center;
+    padding-top: 40px;
+}
+
+.login-button{
+    text-align: center;
+    padding-top: 40px;
+}
+.error{
+    color: red;
+}
