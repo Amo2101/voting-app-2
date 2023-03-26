@@ -29,6 +29,7 @@ return(
     <a href="/">Home</a>
     <a href="#">Vote</a>
     <a href="#">Privacy</a>
+    <a href="#">Contact us</a>
     <a href="/form">login/Register</a>
 
     
