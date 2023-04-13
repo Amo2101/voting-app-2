@@ -3,6 +3,7 @@ import Form from './pages/form';
 import Navbar from './components/navbar';
 import { BrowserRouter as Router, Switch, Route, Link } from 'react-router-dom';
 import { Routes } from "react-router-dom";
+import ContactForm from './components/ContactForm';
 
 const Voting =()=>{
   return(
