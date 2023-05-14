@@ -1,0 +1,83 @@
+.main{
+    height: 100vh;
+    width: 100vw;
+    background: white;
+    overflow-x: hidden;
+
+    
+}
+
+.profile-container{
+    width: 90%;
+    height: 100vh;
+    background: white;
+    margin: auto;
+}
+
+.top-portion{
+    height: 25%;
+    width: 100%;
+}
+
+.user-profile-bg-image{
+    height: 80%;
+    width: 100%;
+    background: rgb(112, 112, 199);
+     overflow: hidden;
+}
+
+#prf-bg-img{
+height: 100vh;
+width: 100vw;
+margin-top: -12rem;
+}
+
+#prf-img{
+    height: 100%;
+    width: 100%;
+    object-fit: cover;
+    border-radius: 50%;
+}
+
+.user-profile-img{
+    position: absolute;
+    height: 30%;
+    width: 15%;
+    border-radius: 50%;
+    transform: translateX(50%);
+    right: 50%;
+top: 40vh;
+    background-color: rgb(4, 4, 60);
+    
+}
+
+.userNam{
+    text-align: center;
+   
+    position: relative;
+    
+    font-size: 2rem;
+    color: black;
+}
+
+.bottom-portion{
+    display: flex;
+   
+    justify-content: center;
+    flex-direction: row;
+    background-color: white;
+    width: 100vw;
+    margin-top: 20rem;
+}
+
+.right-side{
+    flex: 0.60;
+    
+    height: 100%;
+}
+
+.left-side{
+    flex: 0.40;
+    
+    height: 100%;
+}
