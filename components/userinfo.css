@@ -1,0 +1,29 @@
+.main-user-info-container{
+    width: 600px;
+    
+    margin: 2rem;
+    padding: 1rem;
+    box-shadow: 1rem 1rem 2rem 1rem lightgray;
+    border-radius: 0.5rem;
+    position: absolute;
+    left: 30vw;
+    
+}
+
+#hr-info{
+    background-color: lightgray;
+    height: 1px;
+    border: none;
+    width: 95%;
+    margin: auto;
+}
+
+.info-container h6{
+    font-size: 1rem;
+}
+
+.info-container h5{
+    font-size: 0.8rem;
+    
+    font-weight: lighter;
+}
